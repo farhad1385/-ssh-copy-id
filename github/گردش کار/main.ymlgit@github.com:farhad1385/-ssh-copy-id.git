@@ -1,0 +1,7 @@
+git@github.com:farhad1385/-ssh-copy-id.gitgit@github.comecho "# -ssh-copy-id" >> README.md 
+git init 
+git افزودن README.md 
+git commit -m "first commit" 
+شاخه git -M 
+git main remote add origin git@github.com:farhad1385/-ssh- copy-id.git
+ git push -u source mainREADME.mdcopy-id.git
